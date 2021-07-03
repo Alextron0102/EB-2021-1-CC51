@@ -28,7 +28,7 @@ Dentro de los 3 primeros canales de YouTube que son tendencia más frecuentement
 - ¿En qué Estados se presenta el mayor número de “Vistas”, “Me gusta” y “No me gusta”?
 Hamburg se encuentra en el primer lugar con 822M de vistas, 25.95M de Me gusta y 1.25M de No me gusta.
 - ¿Es factible predecir el número de “Vistas” o “Me gusta” o “No me gusta”?
-<!--FALTA -->
+Si es factible predecirlo mediante el modelo de regresión lineal, puesto que la pendiente de la función es positiva, por lo que si las variables de vistas, me gusta o no me gusta incrementan su valor, entonces se puede predecir cuales vídeos van a estar en tendencia, pero este modelo no es factible para predecir las vistas actuales, puesto que no es del todo exacto.
 - ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben? 
 No, los videos en tendencia son los que tienen mayor visualizaciones, esto debido a que ningún video del dataset cuenta con 0 reproducciones.
 
