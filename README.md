@@ -13,14 +13,24 @@ El objetivo del presente proyecto es aplicar los conocimientos adquiridos en el 
 [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
 
 ## Conclusiones
-<!--
-- Se realizan 119390 reservas, que es la suma de ambas reservas en los 2 tipos de hoteles que tenemos, 79330 en el caso de City Hotel, y 40060 en el caso de Resort Hotel. El hotel más reservado es el City Hotel, con 79330 reservas, con 39270 reservas más que Resort Hotel.
-- Con el tiempo se observa una demanda constante que tiende a la subida, con algunos picos sobresalientes que van aumentando a través de los años.
-- La mayor temporada de reserva se realiza a mediados de año, con picos entre abril y junio, y otro pico en el mes de Octubre. Se considera una temporada media exactamente a mitad de año. Además la temporada de reserva más baja ocurre a inicios de año, en los primeros 2 meses.
-- La menor demanda de reservas ocurre en el mes de enero, específicamente en el año 2016. Este mes también tiene una baja reserva en el año 2017.
-- Sólo 8590 reservas incluyen niños o bebés.
-- Si es importante contar con espacios de almacenamiento, puesto que la mayor parte de nuestras reservas si requieren de este. (de 119390 reservas en total, 111974 si requieres estacionamiento).
-- En el mes de agosto es donde se produce la mayor cantidad de cancelaciones de reservas.-->
+- ¿Qué categorías de videos son las de mayor tendencia? 
+Las categorías de videos con mayor tendencia son Entertainment y People and Blogs, que corresponden a las dos primeras categorías con más videos en tendencia.
+- ¿Qué categorías de videos son los que más gustan? ¿Y las que menos gustan?
+La categoría de videos que más gustan son: Entertainment con 228M de likes, Music con 109M de likes y Comedy con 70M de likes. Y las categorias de videos que menos gustan son: Movies con 112 mil likes, seguido de Shows con 374 mil likes y Travel & Events 1M de likes.
+- ¿Qué categorías de videos tienen la mejor proporción (ratio) de “Me gusta” / “No me gusta”? 
+Las categorías de video que tienen la mejor proporción (ratio) de Likes / Dislikes son News & Politics(203.64), seguido de Sports(130.61) y seguido de People & Bolds (121.59).
+- ¿Qué categorías de videos tienen la mejor proporción (ratio) de “Vistas” / “Comentarios”? 
+Las categorías de video que tienen la mejor proporción (ratio) de Visualizaciones / Cantidad de comentarios son Travel & Events (4036.30), Education (3435.08) y seguido de Sports (2391.79)  
+- ¿Cómo ha cambiado el volumen de los videos en tendencia a lo largo del tiempo?
+La cantidad total de videos vistos por año tiende a ser constante, con variaciones entre 185~195, excepto cerca a la fecha de mayo 2018, dónde no hubieron muchos videos en tendencia.
+- ¿Qué Canales de YouTube son tendencia más frecuentemente? ¿Y cuáles con menos frecuencia? 
+Dentro de los 3 primeros canales de YouTube que son tendencia más frecuentemente se encuentran Galleco con 200 videos en tendencia, seguido de Ruhrpottwache con 185 videos y seguido de Анатолий Шарий con 182 videos. Y dentro de los 3 últimos en tendencia se encuentran Massengeschmack-TV, Mr Whaatwaa y Mr. Damon, estos 3 con 1 video en tendencia.
+- ¿En qué Estados se presenta el mayor número de “Vistas”, “Me gusta” y “No me gusta”?
+Hamburg se encuentra en el primer lugar con 822M de vistas, 25.95M de Me gusta y 1.25M de No me gusta.
+- ¿Es factible predecir el número de “Vistas” o “Me gusta” o “No me gusta”?
+<!--FALTA -->
+- ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben? 
+No, los videos en tendencia son los que tienen mayor visualizaciones, esto debido a que ningún video del dataset cuenta con 0 reproducciones.
 
 ## Licencia
 MIT License
